@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murolandoshow_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=murolando&show_icons=true&theme=radical)
