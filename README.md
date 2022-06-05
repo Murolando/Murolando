@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### My activities:
+#### 1) [ODS](https://ods.ai/users/4958a7d191f9)
+#### 2) [Kaggle](https://www.kaggle.com/murolando)
+
+
 🔥 GitHub Stats
 
 
