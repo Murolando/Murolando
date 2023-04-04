@@ -1,5 +1,7 @@
 # :dash: About Me:
-Hello there! My name is Murat.<br\> ⚔️ I’m currently learning **Go, Python, Machine Learning,Deep Learning,**
+Hello there! My name is Murat.
+
+⚔️ I’m currently learning **Go, Python, Machine Learning,Deep Learning,**
 
 
  ✅ I like to solve problems on algorithms: [**LeetCode**](https://leetcode.com/user8562GW/) ,
