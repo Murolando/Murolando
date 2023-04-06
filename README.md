@@ -26,6 +26,8 @@ Hello there! My name is Murat.
 ![Golang](https://img.shields.io/badge/golang-%230db7ed.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-red.svg?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Miro](https://img.shields.io/badge/Miro-yellow.svg?style=for-the-badge&logo=Miro&logoColor=black) 
