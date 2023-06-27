@@ -18,12 +18,12 @@ Hello there! My name is Murat.
 </p>
 
 # 💻 Tech Stack:
+![Golang](https://img.shields.io/badge/golang-%230db7ed.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pytorch](https://img.shields.io/badge/pytorch-%230db7ed.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-FF6C37.svg?style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/sklearn-%230db7ed.svg?style=for-the-badge&logo=sklearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%FF6C37.svg?style=for-the-badge&logo=Pandas&logoColor=red)
-![Golang](https://img.shields.io/badge/golang-%230db7ed.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-red.svg?style=for-the-badge&logo=git&logoColor=white)
